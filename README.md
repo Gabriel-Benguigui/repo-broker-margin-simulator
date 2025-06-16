@@ -30,4 +30,4 @@ Master Financial Markets & Risk Evaluation – TSM
 
 ## Tester sur collab :
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-Benguigui/repo-margin-simulator/blob/main/repo_margin_simulator.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabriel-Benguigui/repo-broker-margin-simulator/blob/main/repo_margin_simulator.ipynb)
